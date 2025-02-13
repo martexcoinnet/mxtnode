@@ -7,7 +7,7 @@ A quick introduction of the minimal setup you need to get a running node.
 
 *Prerequisites:*
 - JAVA `openjdk-11-jre`
--   `mxt-all*.jar` and `tuna.conf` files from [releases](https://github.com/martexcoinnet/mxtnode/releases) 
+-   `mxt-all*.jar` and `mxt.conf` files from [releases](https://github.com/martexcoinnet/mxtnode/releases) 
 
 Linux systems:
 ```bash
